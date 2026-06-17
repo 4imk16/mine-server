@@ -42,5 +42,3 @@ Este dashboard está diseñado para:
 - Más herramientas de administración
 
 ---
-
-💡 *Proyecto en constante evolución*
