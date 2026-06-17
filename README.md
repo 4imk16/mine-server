@@ -1,24 +1,46 @@
-# Dashboard
+# 🧭 Dashboard
 
-Servidor de Minecraft con dashboard.
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Minecraft](https://img.shields.io/badge/minecraft-server-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+Servidor de Minecraft con dashboard para gestión y organización del proyecto.
+
+---
 
 ## 📌 Acceso a los apuntes
 
-Para ver los apuntes del proyecto, abre el siguiente enlace:
+Puedes ver los apuntes del proyecto aquí:
 
-👉 https://TU-LINK-AQUI
-
-👉 README.HTML
+- 🔗 https://TU-LINK-AQUI  
+- 🌐 Versión HTML: `README.html`
 
 ---
 
 ## ⚠️ Estado del proyecto
 
 Este proyecto **todavía está en desarrollo**.  
-Funciona, pero se sigue actualizando y mejorando constantemente, así que puede cambiar con el tiempo.
+Funciona correctamente, pero se sigue actualizando y mejorando constantemente, por lo que puede cambiar con el tiempo.
 
 ---
 
-## ℹ️ Información
+## 📊 Información
 
-Este dashboard está pensado para gestionar un servidor de Minecraft y organizar información del proyecto de forma visual.
+Este dashboard está diseñado para:
+
+- Gestionar un servidor de Minecraft
+- Organizar información del proyecto
+- Tener una vista más visual y cómoda del sistema
+
+---
+
+## 🚀 Futuras mejoras
+
+- Panel más interactivo
+- Mejor diseño UI
+- Sistema de usuarios
+- Más herramientas de administración
+
+---
+
+💡 *Proyecto en constante evolución*
