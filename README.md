@@ -1,4 +1,4 @@
-# 🧭 Dashboard
+# Dashboard
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![Minecraft](https://img.shields.io/badge/minecraft-server-green)
@@ -8,7 +8,7 @@ Servidor de Minecraft con dashboard para gestión y organización del proyecto.
 
 ---
 
-## 📌 Acceso a los apuntes
+## Acceso a los apuntes
 
 Puedes ver los apuntes del proyecto aquí:
 
@@ -20,11 +20,11 @@ Puedes ver los apuntes del proyecto aquí:
 ## ⚠️ Estado del proyecto
 
 Este proyecto **todavía está en desarrollo**.  
-Funciona correctamente, pero se sigue actualizando y mejorando constantemente, por lo que puede cambiar con el tiempo.
+Funciona correctamente, pero se sigue actualizando y mejorando.
 
 ---
 
-## 📊 Información
+## 📜 Información 📜
 
 Este dashboard está diseñado para:
 
@@ -34,7 +34,7 @@ Este dashboard está diseñado para:
 
 ---
 
-## 🚀 Futuras mejoras
+## Futuras mejoras
 
 - Panel más interactivo
 - Mejor diseño UI
