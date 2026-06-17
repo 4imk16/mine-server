@@ -40,5 +40,3 @@ Este dashboard está diseñado para:
 - Mejor diseño UI
 - Sistema de usuarios
 - Más herramientas de administración
-
----
